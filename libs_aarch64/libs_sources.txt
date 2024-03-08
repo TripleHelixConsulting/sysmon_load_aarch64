@@ -1,0 +1,3 @@
+/home/luke/git/yocto_BLD_1_March/build/tmp/sysroots-components/cortexa72/mesa/usr/lib/
+/home/luke/git/yocto_BLD_1_March/build/tmp/sysroots-components/cortexa72/glfw/usr/lib/
+
